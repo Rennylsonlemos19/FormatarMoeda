@@ -1,0 +1,7 @@
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_formatacaomoeda\bin\Debug\aula_formatacaomoeda.exe.config
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_formatacaomoeda\bin\Debug\aula_formatacaomoeda.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_formatacaomoeda\bin\Debug\aula_formatacaomoeda.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_formatacaomoeda\obj\Debug\aula_formatacaomoeda.csproj.CoreCompileInputs.cache
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_formatacaomoeda\obj\Debug\aula_formatacaomoeda.exe
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_formatacaomoeda\obj\Debug\aula_formatacaomoeda.pdb
+C:\Users\renny\OneDrive\Área de Trabalho\atividade_csharp\aula_formatacaomoeda\obj\Debug\aula_formatacaomoeda.csproj.AssemblyReference.cache
